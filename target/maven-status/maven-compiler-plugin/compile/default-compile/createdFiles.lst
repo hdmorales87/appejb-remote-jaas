@@ -1,0 +1,3 @@
+org\hmorales\webapp\ejb\service\ServiceEjb.class
+org\hmorales\webapp\ejb\models\Producto.class
+org\hmorales\webapp\ejb\service\ServiceEjbRemote.class
